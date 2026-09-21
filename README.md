@@ -14,7 +14,7 @@
 | 项目 | 项目简介| 状态 | 你可以看到 | 推荐入口 |
 |---|---|---|---|---|
 | [**Pawlight**](https://github.com/huibainobrain/Pawlight) | **AI生图类宠物陪伴产品** | **已商业化产品** | AI 用户产品 0→1 · 生成模型 API 选型 · 独立开发 | [README](https://github.com/huibainobrain/Pawlight/blob/main/README.md) · API 选型 |
-| [**Frontier**](https://github.com/huibainobrain/Frontier) | **前沿研究检索Agent** | **可运行 AI Agent** | Agent / Workflow · 产品架构 · 迭代方法 · 效果评估 | README · 架构决策 · 评估框架 · 迭代记录 |
+| [**Frontier**](https://github.com/huibainobrain/Frontier) | **前沿研究检索Agent** | **可运行 AI Agent** | Agent / Workflow · 产品架构 · 迭代方法 · 效果评估 | [README](https://github.com/huibainobrain/Frontier/blob/main/README.md) · [架构决策](https://github.com/huibainobrain/Frontier/blob/main/产品架构决策.md) · [评估框架](https://github.com/huibainobrain/Frontier/blob/main/效果评估框架.md) · [迭代记录](https://github.com/huibainobrain/Frontier/blob/main/产品迭代记录.md) |
 | [**Finguard**](https://github.com/huibainobrain/Finguard) | **LLM金融合规检测机器人** | **AI产品Demo** | 金融合规规则 · LLM 判断 · 测试 Case · Bad Case 与效果验证 | README · 测试与效果 |
 | [**Roomly**](https://github.com/huibainobrain/Roomly) | **4小时快速实现的合租生活管家** | **可交互原型** | 需求拆解 · 产品设计 · AI Coding · 快速产品验证 | 在线体验 · README |
 
