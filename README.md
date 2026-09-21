@@ -11,12 +11,12 @@
 
 ## 项目
 
-| 项目 | 状态 | 你可以看到 | 推荐入口 |
-|---|---|---|---|
-| **Pawlight** | **已上线产品** | AI 用户产品 0→1 · 生成模型 API 选型 · 独立开发 | README · API 选型 |
-| **Frontier** | **可运行 AI Agent** | Agent / Workflow · 产品架构 · 迭代方法 · 效果评估 | README · 架构决策 · 评估框架 · 迭代记录 |
-| **Finguard** | **AI 产品 Case / Demo** | 金融合规规则 · LLM 判断 · 测试 Case · Bad Case 与效果验证 | README · 测试与效果 |
-| **Roomly** | **可交互原型** | 需求拆解 · 产品设计 · AI Coding · 快速产品验证 | 在线体验 · README |
+| 项目 | 项目简介| 状态 | 你可以看到 | 推荐入口 |
+|---|---|---|---|---|
+| **Pawlight** | **AI生图类宠物陪伴产品** | **已商业化产品** | AI 用户产品 0→1 · 生成模型 API 选型 · 独立开发 | README · API 选型 |
+| **Frontier** | **前沿研究检索Agent** | **可运行 AI Agent** | Agent / Workflow · 产品架构 · 迭代方法 · 效果评估 | README · 架构决策 · 评估框架 · 迭代记录 |
+| **Finguard** | **LLM金融合规检测机器人** | **AI产品Demo** | 金融合规规则 · LLM 判断 · 测试 Case · Bad Case 与效果验证 | README · 测试与效果 |
+| **Roomly** | **4小时快速实现的合租生活管家** | **可交互原型** | 需求拆解 · 产品设计 · AI Coding · 快速产品验证 | 在线体验 · README |
 
 ---
 
